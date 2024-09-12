@@ -1,7 +1,7 @@
 <h1 align="center">Привет 👋, меня зовут Ярослав</h1>
 <h2 align="center">Я занимаюсь Frontend-разработакой</h2>
 
-<h3 align="left">Можете связаться со мной в Telegram: yaroslav880</h3>
+<h3 align="left">Мой Telegram: yaroslav880</h3>
 <p align="left">
 </p>
 
